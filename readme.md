@@ -89,7 +89,7 @@ aptos move test --named-addresses HealthWallet=0x<YOUR_ADDRESS>
 
 ## Contributors
 
-- [Your Name/Organization]
+- [Subhankar Choudhury]
 
 ## Disclaimer
 
