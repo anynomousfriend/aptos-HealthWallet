@@ -1,6 +1,6 @@
 # Decentralized Health Wallet with Spending Rules
 
-## Deply Link
+## Deply Link (Click on the icon to see)
 
 [![Deploy to Aptos](https://explorer.aptoslabs.com/favicon.ico)](https://explorer.aptoslabs.com/txn/0x5b379dced432a377b5cfd036762ae981eab139a8c36d29525f76ee88870d970f?network=devnet)
 
