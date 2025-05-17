@@ -1,0 +1,16 @@
+[package]
+name = "HelloBlockchainExample"
+version = "1.0.0"
+authors = []
+
+[addresses]
+HealthWallet = "0x44ac5b4e9c6e0bb172c1ff11cc1dd05c35eaad090cda3774e137f009f8a4e273"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
